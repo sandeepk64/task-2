@@ -1,0 +1,13 @@
+@media (max-width:600px) {
+
+    .row-down{
+        display: none;
+    }
+    .row-mid{
+        display: none;
+    }
+    .btm-text{
+        font-size: 5px;
+    }
+    
+}
